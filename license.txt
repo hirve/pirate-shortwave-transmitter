@@ -1,0 +1,6 @@
+LICENSE
+
+  You can use the code for your own one person DIY business or non-commercial needs.
+  For any other commercial use of the code or its distribution please contact the author.
+  Authors and sellers of the code are not accountable for any damage caused by using the code.
+  "The code" in the license text means all objects inside a parent folder of this license.

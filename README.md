@@ -3,6 +3,10 @@
 If you are a responsible citizen of Russia, you are personally guilty of this. Stop it. If you are an irresponsible resident of Russia, just ignore this message.
 
 # Pirate shortwave transmitter
+The AM / DSB transmitter moduator, g-code to cut the PCB.
 
-## Important notice
+## Disclaimer
 If you use the ngc code from this project - tune F, S and other parameters for your router. Your and your tools safety is fully your responsibility!
+
+## Video, how it's working
+https://youtu.be/ARgkrbms0Cg
